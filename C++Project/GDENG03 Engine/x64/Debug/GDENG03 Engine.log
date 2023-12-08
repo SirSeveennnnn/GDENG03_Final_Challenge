@@ -1,2 +1,214 @@
-﻿  SceneWriter.cpp
-  GDENG03 Engine.vcxproj -> E:\.School\GDENG03\GDENG03_SceneEditor\GDENG03-Group4-MCO-Scene-Editor\GDENG03 Engine\x64\Debug\GDENG03 Engine.exe
+﻿  ACamera.cpp
+  AComponent.cpp
+  AConstantBuffer.cpp
+  ActionHistoryManager.cpp
+  ActionMemento.cpp
+  ACube.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\ACube.cpp(57,86): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  ADeviceContext.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\ADeviceContext.cpp(36,19): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\ADeviceContext.cpp(37,20): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+  AGameObject.cpp
+  AGraphicsEngine.cpp
+  AIndexBuffer.cpp
+  AngleConverter.cpp
+  APixelShader.cpp
+  APlane.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\APlane.cpp(37,86): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  AppWindow.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\AWindow.h(2,1): warning C4005: 'NOMINMAX': macro redefinition
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\AWindow.h(2,1): message : 'NOMINMAX' previously declared on the command line
+  ASwapChain.cpp
+  AUIPanel.cpp
+  AVertexBuffer.cpp
+  AWindow.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\AWindow.h(2,1): warning C4005: 'NOMINMAX': macro redefinition
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\AWindow.h(2,1): message : 'NOMINMAX' previously declared on the command line
+  BackendManager.cpp
+  EngineProfiler.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\EngineProfiler.cpp(12,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\EngineProfiler.cpp(13,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\EngineProfiler.cpp(25,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  GameObjectManager.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\GameObjectManager.cpp(39,31): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\GameObjectManager.cpp(52,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GlobalProperties.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_stdlib.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  InputManager.cpp
+  InspectorWindow.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\InspectorWindow.cpp(24,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\InspectorWindow.cpp(25,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\AWindow.h(2,1): warning C4005: 'NOMINMAX': macro redefinition
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\AWindow.h(2,1): message : 'NOMINMAX' previously declared on the command line
+  MainMenuBar.cpp
+  MaterialPanel.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\MaterialPanel.cpp(42,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\MaterialPanel.cpp(42,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\MaterialPanel.cpp(49,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\MaterialPanel.cpp(54,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Matrix4x4.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(10,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(50,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(51,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(52,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(53,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(57,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(58,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(59,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(60,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(64,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(65,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(66,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(67,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(82,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(214,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(215,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(216,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Matrix4x4.cpp(217,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ObjectRenderer.cpp
+  PhysicsComponent.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\PhysicsComponent.cpp(44,35): warning C4305: 'argument': truncation from 'double' to 'reactphysics3d::decimal'
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\PhysicsComponent.cpp(45,36): warning C4305: 'argument': truncation from 'double' to 'reactphysics3d::decimal'
+  PhysicsSystem.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\PhysicsSystem.cpp(11,40): warning C4305: 'argument': truncation from 'double' to 'reactphysics3d::decimal'
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\PhysicsSystem.cpp(55,50): warning C4244: 'argument': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\PhysicsSystem.cpp(57,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Point.cpp
+  Generating Code...
+  Compiling...
+  Randomizer.cpp
+  Resource.cpp
+  ResourceManager.cpp
+  SceneCameraManager.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\SceneCameraManager.cpp(20,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SceneLoadPanel.cpp
+  SceneOutliner.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\SceneOutliner.cpp(14,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\SceneOutliner.cpp(15,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ScenePlayOptionsWindow.cpp
+  SceneSavePanel.cpp
+  SceneWriter.cpp
+  ShaderLibrary.cpp
+  SimpleWindowPanel.cpp
+  StateSnapshot.cpp
+  StringUtilities.cpp
+  SystemManager.cpp
+  Texture.cpp
+  TexturedCube.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\TexturedCube.cpp(92,110): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  TexturedVertexBuffer.cpp
+  TextureManager.cpp
+  TimeManager.cpp
+  UIManager.cpp
+  Generating Code...
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\TexturedVertexBuffer.cpp(12): warning C4717: 'TexturedVertexBuffer::~TexturedVertexBuffer': recursive on all control paths, function will cause runtime stack overflow
+  Compiling...
+  Vector2D.cpp
+  Vector3D.cpp
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Vector3D.cpp(37,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Vector3D.cpp(40,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\GDENG03 Engine\Vector3D.cpp(43,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Vector4.cpp
+  Vertex.cpp
+  AVertexShader.cpp
+  Generating Code...
+DirectXTex.lib(DirectXTexImage.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(DirectXTexImage.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+DirectXTex.lib(DirectXTexWIC.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(DirectXTexWIC.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+DirectXTex.lib(DirectXTexD3D11.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(DirectXTexD3D11.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+DirectXTex.lib(DirectXTexUtil.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(DirectXTexUtil.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+DirectXTex.lib(DirectXTexConvert.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(DirectXTexConvert.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+DirectXTex.lib(DirectXTexCompress.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(DirectXTexCompress.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+DirectXTex.lib(DirectXTexMipMaps.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(DirectXTexMipMaps.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+DirectXTex.lib(BC.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(BC.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+DirectXTex.lib(BC4BC5.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(BC4BC5.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+DirectXTex.lib(BC6HBC7.obj) : warning LNK4099: PDB 'DirectXTex.pdb' was not found with 'DirectXTex.lib(BC6HBC7.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\DirectXTex.pdb'; linking object as if no debug info
+reactphysics3d.lib(RigidBody.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(RigidBody.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Quaternion.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Quaternion.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Transform.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Transform.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(CollisionBody.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(CollisionBody.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(PhysicsWorld.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(PhysicsWorld.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(PhysicsCommon.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(PhysicsCommon.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(AABB.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(AABB.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(EntityManager.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(EntityManager.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Material.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Material.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ColliderComponents.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ColliderComponents.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Collider.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Collider.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(OverlappingPairs.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(OverlappingPairs.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(BroadPhaseSystem.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(BroadPhaseSystem.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Vector3.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Vector3.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Components.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Components.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(CollisionDetectionSystem.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(CollisionDetectionSystem.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Joint.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Joint.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(CollisionBodyComponents.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(CollisionBodyComponents.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(RigidBodyComponents.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(RigidBodyComponents.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(TransformComponents.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(TransformComponents.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(JointComponents.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(JointComponents.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(BallAndSocketJointComponents.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(BallAndSocketJointComponents.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(FixedJointComponents.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(FixedJointComponents.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(HingeJointComponents.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(HingeJointComponents.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SliderJointComponents.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SliderJointComponents.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ConstraintSolverSystem.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ConstraintSolverSystem.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(DynamicAABBTree.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(DynamicAABBTree.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(NarrowPhaseInfoBatch.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(NarrowPhaseInfoBatch.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(CollisionDispatch.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(CollisionDispatch.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ContactSolverSystem.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ContactSolverSystem.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(DynamicsSystem.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(DynamicsSystem.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(DebugRenderer.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(DebugRenderer.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(BallAndSocketJoint.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(BallAndSocketJoint.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SliderJoint.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SliderJoint.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(HingeJoint.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(HingeJoint.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(FixedJoint.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(FixedJoint.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(PoolAllocator.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(PoolAllocator.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(HeapAllocator.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(HeapAllocator.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SingleFrameAllocator.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SingleFrameAllocator.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(MemoryManager.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(MemoryManager.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(HalfEdgeStructure.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(HalfEdgeStructure.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SphereShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SphereShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(BoxShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(BoxShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(CapsuleShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(CapsuleShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(HeightFieldShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(HeightFieldShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(PolyhedronMesh.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(PolyhedronMesh.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ConvexMeshShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ConvexMeshShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ConcaveMeshShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ConcaveMeshShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(TriangleMesh.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(TriangleMesh.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(DefaultLogger.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(DefaultLogger.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Entity.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Entity.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(RaycastInfo.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(RaycastInfo.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ContactPoint.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ContactPoint.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ContactManifold.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ContactManifold.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SphereVsSphereAlgorithm.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SphereVsSphereAlgorithm.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SphereVsConvexPolyhedronAlgorithm.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SphereVsConvexPolyhedronAlgorithm.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SphereVsCapsuleAlgorithm.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SphereVsCapsuleAlgorithm.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(CapsuleVsCapsuleAlgorithm.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(CapsuleVsCapsuleAlgorithm.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(CapsuleVsConvexPolyhedronAlgorithm.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(CapsuleVsConvexPolyhedronAlgorithm.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ConvexPolyhedronVsConvexPolyhedronAlgorithm.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ConvexPolyhedronVsConvexPolyhedronAlgorithm.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(NarrowPhaseInput.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(NarrowPhaseInput.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(CollisionCallback.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(CollisionCallback.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(OverlapCallback.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(OverlapCallback.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(TriangleShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(TriangleShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SolveBallAndSocketJointSystem.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SolveBallAndSocketJointSystem.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SolveFixedJointSystem.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SolveFixedJointSystem.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SolveHingeJointSystem.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SolveHingeJointSystem.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SolveSliderJointSystem.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SolveSliderJointSystem.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ConvexShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ConvexShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(CollisionShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(CollisionShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ConvexPolyhedronShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ConvexPolyhedronShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(ConcaveShape.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(ConcaveShape.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(PolygonVertexArray.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(PolygonVertexArray.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(TriangleVertexArray.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(TriangleVertexArray.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(GJKAlgorithm.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(GJKAlgorithm.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(SATAlgorithm.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(SATAlgorithm.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Matrix3x3.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Matrix3x3.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(Matrix2x2.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(Matrix2x2.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+reactphysics3d.lib(VoronoiSimplex.cpp.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'reactphysics3d.lib(VoronoiSimplex.cpp.obj)' or at 'E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+  GDENG03 Engine.vcxproj -> E:\.School\GDENG03\GDENG03_FinalChallenge\GDENG03_Final_Challenge\C++Project\x64\Debug\GDENG03 Engine.exe

@@ -1,4 +1,4 @@
-# GDENG03_Final_Challenge
+# GDENG03_Final_Challenge_Macuha
 
  Link to Google Drive Test Cases Video:
  https://drive.google.com/drive/folders/1GOaYNLxIDaL29SiCdKs3GYHvuofuz0Ms?usp=drive_link

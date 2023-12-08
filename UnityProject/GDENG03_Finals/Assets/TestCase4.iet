@@ -1,0 +1,66 @@
+Plane 0
+Type: 2
+Position: 0 0 0
+Rotation: 0 0 0
+Scale: 20 1 20
+Active: 1
+PhysicsComponent: 1
+Active: 1
+Static: 1
+Gravity: 0
+Mass: 1
+Cube 0
+Type: 1
+Position: -6 7 0
+Rotation: 0.488692 0.610865 0
+Scale: 1 1 1
+Active: 1
+PhysicsComponent: 1
+Active: 1
+Static: 0
+Gravity: 1
+Mass: 1
+Cube 1
+Type: 1
+Position: -2.5 7 0
+Rotation: 0 -0.575959 0.977384
+Scale: 1 1 1
+Active: 1
+PhysicsComponent: 1
+Active: 1
+Static: 0
+Gravity: 0
+Mass: 1
+Cube 2
+Type: 1
+Position: 0 6.75 0
+Rotation: -0.994838 -0.541052 0
+Scale: 1 1 1
+Active: 1
+PhysicsComponent: 1
+Active: 1
+Static: 0
+Gravity: 1
+Mass: 2
+Cube 3
+Type: 1
+Position: 2.5 7 0
+Rotation: -0.418879 -0.750492 0
+Scale: 1 1 1
+Active: 1
+PhysicsComponent: 1
+Active: 1
+Static: 0
+Gravity: 1
+Mass: 4
+Cube 4
+Type: 1
+Position: 5.75 7 0
+Rotation: -0.244346 -0.226893 0
+Scale: 1 1 1
+Active: 1
+PhysicsComponent: 1
+Active: 1
+Static: 0
+Gravity: 1
+Mass: 5
